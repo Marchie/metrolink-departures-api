@@ -1,0 +1,10 @@
+.idea
+
+builds
+
+.terraform
+*.tfvars
+*.tfstate
+*.tfstate.*
+
+build_lambda_functions.sh
